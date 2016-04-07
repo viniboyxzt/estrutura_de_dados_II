@@ -82,9 +82,9 @@ class Carro:public veiculo{
 public:
 
   Carro(){
-
-
   };
+
+
 
   Carro(string mc,string md, float pr,int tc, int na){
     tipoCambio = tc;
